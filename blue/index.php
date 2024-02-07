@@ -4,7 +4,7 @@
   <meta http-equiv="Content-type"
  content="text/html; charset=iso-8859-2">
   <meta name="Keywords"
- content="II A, II LO, Liceum Ogólnokszta³conce, Wodzis³aw ¦l±ski, 1987, kaj-jo-je, mat - inf, Krzysiek Szumny, Noisy">
+ content="II A, II LO, Liceum OgÃ³lnoksztaÅ‚conce, WodzisÅ‚aw ÅšlÄ…ski, 1987, kaj-jo-je, mat - inf, Krzysiek Szumny, Noisy">
   <meta name="Description" content="">
   <meta name="Author" content="Noisy - Krzysztof Szumny">
   <title>StronaNaszejKlasy-2a.prv.pl</title>
@@ -21,21 +21,21 @@
       </td>
     </tr>
     <tr>
-      <td class="kolor" height="100%" width="160"><!-- Pocz±tek menu 1 - lewy panel -->
+      <td class="kolor" height="100%" width="160"><!-- PoczÄ…tek menu 1 - lewy panel -->
       <p>&nbsp;</p>
       <p class="menu"><a href="okno/klasa.html" class="panel"
  target="okno">Nasza
 klasa</a></p>
       <p class="menu"><a href="http://lowodz.home.pl" class="panel"
  target="_blank">Nasza
-szko³a</a><br>
+szkoÅ‚a</a><br>
       <br>
       </p>
       <p class="menubig">&nbsp;MENU<br>
       </p>
       <p class="menu"><a href="http://www.ksiega-2a.prv.pl/"
- class="panel">Ksiêga
-go¶ci</a> </p>
+ class="panel">KsiÄ™ga
+goÅ›ci</a> </p>
       <p class="menu" style="color: rgb(255, 255, 255);">&nbsp; IRC
 chat</p>
       <p class="menu" style="color: rgb(255, 255, 255);">&nbsp; Web
@@ -43,33 +43,33 @@ Gadu-Gadu</p>
       <p class="menu"><a href="okno/sonda.html" class="panel"
  target="okno">Sonda</a> </p>
 <!-- Koniec menu 1 -->
-<!-- Pocz±tek menu 2 - lewy panel -->
-      <p class="menubig">&nbsp;NIEZBÊDNIK</p>
+<!-- PoczÄ…tek menu 2 - lewy panel -->
+      <p class="menubig">&nbsp;NIEZBÄ˜DNIK</p>
       <p class="menu"><a href="okno/plan.html" class="panel"
  target="_blank">Plan
 lekcji</a></p>
       <p class="menu"><a href="okno/numerki.html" class="panel"
- target="okno">Szczê¶liwy
+ target="okno">SzczÄ™Å›liwy
 Numerek</a></p>
       <p class="menu"><a href="okno/ezeszyt.html" class="panel"
  target="okno">E-zeszyt</a></p>
       <p class="menu"><a href="okno/spr.html" class="panel"
  target="okno">Spr.
-i kartkówki</a></p>
+i kartkÃ³wki</a></p>
       <p class="menu"><a href="okno/dzienniczek.html" class="panel"
- target="okno">Twój
+ target="okno">TwÃ³j
 dzienniczek</a></p>
       <p class="menu"><a href="okno/zada.html" class="panel"
  target="okno">Zadania
 domowe</a></p>
       <p class="menu" style="color: rgb(255, 255, 255);">&nbsp; Spis
-tematów</p>
+tematÃ³w</p>
 <!-- Koniec menu 2 -->
-<!-- Pocz±tek menu 3 - lewy panel -->
+<!-- PoczÄ…tek menu 3 - lewy panel -->
       <p class="menubig">&nbsp;ARCHIWUM</p>
       <p class="menu" style="color: rgb(255, 255, 255);"><a
  href="okno/galeria.html" target="okno" class="panel">Galeria
-zdjêæ</a></p>
+zdjÄ™Ä‡</a></p>
       <p class="menu" style="color: rgb(255, 255, 255);">&nbsp; Filmy
 i filmiki</p>
       <p class="menu"><span style="color: rgb(255, 255, 255);">&nbsp;
@@ -80,14 +80,14 @@ z lekcji</span><a href="lewe/powiedzonka.html" class="panel"><br>
       </p>
       <p class="menu" style="text-align: center;"><a
  href="okno/subgg.html" class="panel" target="okno">Co to jest i
-jak dzia³a subskrupcja?</a></p>
+jak dziaÅ‚a subskrupcja?</a></p>
       <form action="subgg/subscript.php" method="post">
         <div style="text-align: center;"><input type="text" name="uid"
  maxlength="11"><br>
         </div>
         <div style="text-align: center;"><input type="checkbox"
  name="mode" value="del" style="color: rgb(255, 255, 255);"> <span
- style="color: rgb(255, 255, 255);"> Usun mój numer</span><br>
+ style="color: rgb(255, 255, 255);"> Usun mÃ³j numer</span><br>
         </div>
         <div style="text-align: center;"><input type="submit"
  name="submit" value="Wykonaj"
@@ -99,7 +99,7 @@ jak dzia³a subskrupcja?</a></p>
  width="610">
         <tbody>
           <tr>
-            <td class="kolor2" colspan="2" height="20" width="610"><!-- Pocz±tek menu górnego -->
+            <td class="kolor2" colspan="2" height="20" width="610"><!-- PoczÄ…tek menu gÃ³rnego -->
             <table border="0" cellpadding="0" cellspacing="0"
  height="20" width="610">
               <tbody>
@@ -107,7 +107,7 @@ jak dzia³a subskrupcja?</a></p>
                   <td class="ramka" width="122"><a
  href="okno/aktualnosci.html" class="top" target="okno"><img
  src="img/point2.gif" width="12" height="12" border="0" alt=""
- align="left">Stronag³ówna<br>
+ align="left">StronagÅ‚Ã³wna<br>
                   </a></td>
                   <td class="ramka" width="122"
  style="color: rgb(255, 255, 255);"><img src="img/point.gif" width="12"
@@ -128,16 +128,16 @@ jak dzia³a subskrupcja?</a></p>
                 </tr>
               </tbody>
             </table>
-<!-- Koniec menu górnego --> </td>
+<!-- Koniec menu gÃ³rnego --> </td>
           </tr>
           <tr>
             <td height="100%" width="440"><iframe width="100%"
  height="1611" frameborder="0" src="okno/aktualnosci.html"
  id="autoiframe" scrolling="no" name="okno">Twoja
-przegl±darka
-nie akceptuje p³ywaj±cych ramek</iframe> <br>
+przeglÄ…darka
+nie akceptuje pÅ‚ywajÄ…cych ramek</iframe> <br>
             </td>
-<!-- Pocz±tek prawego panela --> <td class="kolor2" height="100%"
+<!-- PoczÄ…tek prawego panela --> <td class="kolor2" height="100%"
  width="170">
             <p class="menubigright">CZAS I DATA</p>
             <center>
@@ -145,7 +145,7 @@ nie akceptuje p³ywaj±cych ramek</iframe> <br>
  bgcolor="339999" width="160" height="160" align=""
  type="application/x-shockwave-flash"
  pluginspage="http://www.macromedia.com/go/getflashplayer" menu="false"></center>
-            <p class="menubigright">SZCZÊ¦LIWY NUMEREK</p>
+            <p class="menubigright">SZCZÄ˜ÅšLIWY NUMEREK</p>
             <p class="panel"><!-- skrypt w php ktory sam wyswietla numerki na nastepny dzien-->
             <script language="php">
 $dzien=date("d");
@@ -175,19 +175,19 @@ echo("</b>");
             </script>
             </p>
             <p class="menubigright">LICZNIK</p>
-<!-- LICZNIK OSÓB OBECNIE BÊD¡CYCH NA STRONIE-->
-            <p class="panel" style="text-align: center;">Go¶ci na
+<!-- LICZNIK OSÃ“B OBECNIE BÄ˜DÄ„CYCH NA STRONIE-->
+            <p class="panel" style="text-align: center;">GoÅ›ci na
 stronie<br>
             <b>
             <script src="http://www.numerator.pl/licznik.php?id=54546"></script></b></p>
             <div style="text-align: center;"><!-- LICZNIK DZIENNYCH ODWIEDZIN-->
             </div>
-            <p class="panel" style="text-align: center;">Odwiedzin dzi¶<br>
+            <p class="panel" style="text-align: center;">Odwiedzin dziÅ›<br>
             <b>
             <script src="http://www.numerator.pl/licznik.php?id=54545"></script></b></p>
             <div style="text-align: center;"><!-- LICZNIK DZIENNYCH ODWIEDZIN-->
             </div>
-            <p class="panel" style="text-align: center;">Wy¶wietleñ
+            <p class="panel" style="text-align: center;">WyÅ›wietleÅ„
 strony<br>
             <b>
             <script src="http://www.numerator.pl/licznik.php?id=54544"></script></b></p>
@@ -202,7 +202,7 @@ I G</a></p>
  href="http://www.pajacyk.pl/" target="_blank"><img
  src="http://www.pajacyk.pl/ban_pajac/pajacyk_139x68.gif"
  style="border: 0px solid ; width: 139px; height: 68px;"
- alt="Nakarm g³odne dziecko - wejd¼ na stronê www.Pajacyk.pl" title=""
+ alt="Nakarm gÅ‚odne dziecko - wejdÅº na stronÄ™ www.Pajacyk.pl" title=""
  vspace="5"></a></div>
 <!--######################################       BANER POLSKIEGO SERCA        ########################################-->
             <div align="center"><object
