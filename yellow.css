@@ -1,0 +1,115 @@
+body {margin: 0 0 0 0;
+		background: #000000;
+	SCROLLBAR-FACE-COLOR: #000000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+	SCROLLBAR-SHADOW-COLOR: #000000; 
+	SCROLLBAR-3DLIGHT-COLOR: #666666; 
+	SCROLLBAR-ARROW-COLOR: #ffffff; 
+	SCROLLBAR-TRACK-COLOR: #000000; 
+	SCROLLBAR-DARKSHADOW-COLOR: #666666; }
+P {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #000000;
+		padding: 1pt;
+		margin: 1pt 10pt 8pt 10pt;
+		text-align: justify;}
+.menu {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #000000;
+		padding: 1pt;
+		margin: 4 5 4 10;
+		text-align: justify;}
+.panel {color: #ffffff;
+		padding: 1pt;
+		margin: 1 5 1 5;
+		text-align: justify;}
+h1 {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14pt;
+        color: #ffffff;
+		font-weight: bold;
+		text-align: center;
+		VERTICAL-ALIGN: absmiddle;
+		margin-bottom: 1pt;
+		margin-top: 4pt;
+		padding: 4pt;}
+h2 {padding: 1pt;
+		margin: 2 10 2 10;
+		font-weight: bold;
+		color: #000000;
+		font-size: 10pt;}
+a.panel:link, a.panel:active, a.panel:visited {
+        color: #ffffff;
+        font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-weight: normal;
+        font-size: 10pt;}
+a.panel:hover {text-decoration: none;
+        font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 10pt;
+        color: #cc9933;}
+a.top:link, a.top:active, a.top:visited {
+		text-decoration: none;
+		font-weight: normal;
+        color: #ffffff;
+        font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9pt;}
+a.top:hover {text-decoration: none;
+        font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 9pt;
+        color: #cc9933;}
+table{text-align: left;
+background: #ffffff;}
+td {text-align: left;
+		vertical-align: top;
+		background: #Ffffff;}
+.ramka {font-size: 9pt;
+		text-align: left;
+		vertical-align: middle;
+		background: #000000;
+		border-right-style: solid;
+		border-right-width: 1pt;
+		border-color: #ffffff;}
+.kolor {vertical-align: top;
+		background: #000000;}
+.kolor2 {vertical-align: top;
+		background: #000000;}
+.kolor3 {vertical-align: top;
+		background-image: url(img/yellow_top_tlo.jpg);}	
+.point {vertical-align: top;
+		background-image: url(img/yellow_point.gif);}		
+.point2 {vertical-align: top;
+		background-image: url(img/yellow_point2.gif);}
+		
+.menubig {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #ffffff;
+		font-weight: bold;
+		text-align: left;
+		border-left-style: solid;
+		border-left-width: 2pt;
+		border-bottom-style: solid;
+		border-bottom-width: 1pt;
+		border-top-style: solid;
+		border-top-width: 1pt;
+		border-color: #ffffff;
+		padding: 1pt 0pt 1pt 0pt;
+		margin: 5pt 0pt 5pt 0pt;
+		background: #cc9933;}
+.menubigright {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #ffffff;
+		font-weight: bold;
+		text-align: left;
+		border-left-style: solid;
+		border-width: 1pt;
+		border-right-style: solid;
+		border-right-width: 2pt;
+		border-bottom-style: solid;
+		border-bottom-width: 1pt;
+		border-top-style: solid;
+		border-top-width: 1pt;
+		border-color: #ffffff;
+		padding: 1pt 0pt 1pt 5pt;
+		margin: 5pt 0pt 5pt 0pt;
+		background: #cc9933;}		

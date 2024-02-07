@@ -1,0 +1,35 @@
+	
+
+ 					- = Tu sa zapisywane zmiany jakie zosta³y wprowadzone = -
+
+
+
+
+16:51 2005-03-13: Noisy: aktualizacja strony. Przebudowa ca³ego serwisu na ramki wewetrzne. Pousuwanie nie dzialajacych linkow i w koncu najwazniejsze...nominowanie drugiego admina strony :)
+
+18:54 2005-03-13: Noisy: powiêkszy³em nieco zegar. Ustawi³em plan lekcji na target="_blank" i wyciepalem z planu lekcji "wroc" no bo po co ma byc skoro sie otwiera w nowym oknie.
+
+00:22 2005-03-14: Noisy: Dodanie 14 nowych zdjec do galerii (halhmetek cz 2 ), uzupelnienie aktualnosci o wiadomosci dotyczace przebudowy strony, nowych zdjec w galerii oraz nowego czlonka redakcji.
+
+22:54 2005-03-14: Noisy: Dodanie zagadnien i tego co ogolnie bylo na sprawdzianie z infy. Zostalo to dodane jako pliki infa1.html i infa2.html w katalogu spr. Utworzylem linki do tych stron na stronie spr.html
+
+
+23:34 2005-03-15: Noisy: dodalem do prawego panela zakladke "inne klasy" w której umiescilem link do strony klasy I G. Zrobilem to dlatego gdyz oni za moja namowa zrobili to samo. Uruchomilem dzia³ "linkownia" z górnego menu umieszczaj¹c tam adresy stron internetowych innych szkó³ ponadgimnazjalnych w Wodzis³awiu. Oraz nowy dzia³ w lewym menu o nazwie "E-zeszyt"...zobacz sam. Licznik  zmieni³em na tekstowy zamiast graficznego.
+
+19:32 2005-03-20: Pio: Dodalem 16 nowych zdjec do galeri "Lekcja geografi w 20". Targety we wszystkich galeriach przestawilem na blaka. Foty sa w folderze geografia w public_htm, czyli wszystko tak jak bylo przyjete wczesniej.
+
+13:39 2005-04-06: Pio: Doda³em notki na Aktualnosciach, "Przypomnienie" i "Nowy dzia³". Chcia³bym te¿ ¿eby strona startowa by³a niczym innym jak w³asnie aktualnosciami wiec notki z "strony g³ównej" by³y przeniesione na Aktualnosci i od teraz ju¿ zawsze ¿eby to by³o to samo.
+
+17:19 2005-04-06: Pio: Doda³em galerie 10 zdjec z lekcji bioli i przerwy, musze tylko przestawic rozmiary miniatur bo sa dziwnie rozciagniete a narazie mi sie nie chce wiec zrobie to nastepnym razem
+
+02:19 2005-04-07: Noisy: Doda³em duuu¿o linkow do linkowni, zamieni³em aktualnosci z powitaniem tak jak chciales (powitanie wywalilem), na adres ksiegi gosci nalozylem alias i teraz zamiast http://www.ksiegi-gosci.info/ksiega.php?noisy jest www.ksiega-2a.pl (to takie kosmetyczne), wpisalem numerki na kwiecien, stworzylem nowa sonde "ulubiony przedmiot" (zeby jakas sonda byla), i chce powiadomic, ze na stronie samobiedronka.prv.pl (samorzad LO1) za moja namowa znalazl sie link prowadzacy do naszej strony. 
+
+15:20 2005-04-14: Noisy: Doda³em materia³y na do nauki i æwiczenia na sprawdzian z fizyki. Ponadto w sobote planuje uruchomiæ forum.. Mo¿esz na ni¹ ju¿ wejœæ dopisuj¹c do adresu na koñcu "phpBB2/". Jak masz pomys³y jakie dzia³y powinny sie tam znaleŸæ, lub nie to napisz do mnie.
+
+16:59 2005-04-15: Noisy: Doda³em subskrybcje GG do strony co nam pozwoli z ³atwoœci¹ informowaæ o nowoœciach na stronie. Ponadto wczoraj wpisa³em skrypt php do indexu. Pokazuje on nr niepytane w nastêpnym dniu. (musze to jeszcze dopracowaæ).
+
+21:48 2005-04-16: Noisy: I oto nasza strona ma dwa wcielenia! zmieni³em wygl¹d strony, ale w taki sposób, ¿e internauta mo¿e sobie wybraæ jak¹ kolorystyke chce mieæ. Troche sie nad tym namêczy³em. Wszystko opiera sie na stylach css i js. 
+
+16:10 2005-04-17: NOisy: doda³em kolejne dwa style: bia³y i ¿ó³to-czarny
+
+23:20 2005-04-17: Noisy: uruchomi³em forum. Narazie tak jak jest, ale styl sie zmieni.

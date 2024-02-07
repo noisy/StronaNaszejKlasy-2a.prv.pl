@@ -1,0 +1,42 @@
+body {margin: 0 0 0 0;
+		background: #FFFFFF;
+	SCROLLBAR-FACE-COLOR: #000000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+	SCROLLBAR-SHADOW-COLOR: #000000; 
+	SCROLLBAR-3DLIGHT-COLOR: #666666; 
+	SCROLLBAR-ARROW-COLOR: #ffffff; 
+	SCROLLBAR-TRACK-COLOR: #000000; 
+	SCROLLBAR-DARKSHADOW-COLOR: #666666; 
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #000000;
+		padding: 1pt;
+		margin: 4 5 4 10;
+		text-align: justify;
+
+
+
+
+
+}
+P {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+        color: #000000;
+		padding: 1pt;
+		margin: 1pt 10pt 8pt 10pt;
+		text-align: justify;}
+
+h1 {font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14pt;
+        color: #000000;
+		font-weight: bold;
+		text-align: center;
+		VERTICAL-ALIGN: absmiddle;
+		margin-bottom: 1pt;
+		margin-top: 4pt;
+		padding: 4pt;}
+h2 {padding: 1pt;
+		margin: 2 10 2 10;
+		font-weight: bold;
+		color: #000000;
+		font-size: 10pt;}

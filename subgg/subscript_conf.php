@@ -1,0 +1,36 @@
+<?php
+define('ADMIN_PASSWORD', '123123');
+define('DB_HOST', 'sql.noisy.nazwa.pl');
+define('DB_USER', 'noisy_1');
+define('DB_PASS', '123123');
+define('DB_NAME', 'noisy_1');
+define('GG_UIN', 9109103);
+define('GG_PASSWORD', '123123');
+define('GG_WELCOME', 0x0001);
+define('GG_VERSION', 0x22);
+define('GG_LOGIN60', 0x0015);
+define('GG_LOGIN_OK', 0x0003);
+define('GG_NEW_STATUS', 0x0002);
+define('GG_STATUS_NOT_AVAIL', 0x0001);
+define('GG_STATUS_NOT_AVAIL_DESCR', 0x0015);
+define('GG_STATUS_AVAIL', 0x0002);
+define('GG_STATUS_AVAIL_DESCR', 0x0004);
+define('GG_STATUS_BUSY', 0x0003);
+define('GG_STATUS_BUSY_DESCR', 0x0005);
+define('GG_STATUS_INVISIBLE', 0x0014);
+define('GG_STATUS_INVISIBLE_DESCR', 0x0016);
+define('GG_STATUS_BLOCKED', 0x0006);
+define('GG_SEND_MSG', 0x000b);
+define('GG_RECV_MSG', 0x000a);
+define('GG_PING', 0x0008);
+define('GG_PONG', 0x0007);
+define('GG_CLASS_MSG', 0x0004);
+define('GG_CLASS_CHAT', 0x0008);
+define('GG_ACK_BLOCKED', 0x0001);
+define('GG_ACK_DELIVERED', 0x0002);
+define('GG_ACK_QUEUED', 0x0003);
+define('GG_ACK_MBOXFULL', 0x0004);
+define('GG_ACK_NOT_DELIVERED', 0x0006);
+define('GG_SEND_MSG_ACK', 0x0005);
+define('GG_DISCONNECTING', 0x000b);
+?>

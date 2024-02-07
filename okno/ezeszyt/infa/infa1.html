@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-2">
+  <title>test</title>
+  <link href="styl.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" language="JavaScript"
+ src="autoiframe.js"></script>
+</head>
+<body>
+<h1 style="color: rgb(0, 0, 0);">Hub, switch, gateway, router...
+</h1>
+<h2><br>
+</h2>
+<p class="MsoNormal"><b style="">hub </b><br>
+(inaczej koncentrator ) - Pozwala po³±czyæ ze sob± wiêksz± ilo¶æ
+komputerów,
+tworz±cych sieæ lokaln±. Ka¿dy komputer ma po³±czenie z hubem i dziêki
+temu z
+ka¿dym innym komputerem. Sygna³ podany na jedno wej¶cie pojawia siê na
+wszystkich innych pozosta³ych.W wiêkszo¶ci przypadków pe³ni te¿ funkcjê
+repeatera. Huby stosuje siê w sieciach o topologii gwiazdy. <o:p></o:p></p>
+<p class="MsoNormal"><b style="">switch </b><br>
+(inaczej prze³±cznik) - Jego podstawowym zadaniem jest podzia³ sieci
+lokalnej
+na mniejsze fragmenty aby ograniczyæ mo¿liwo¶æ powstawania kolizji i
+dziêki
+temu zwiêkszyæ przepustowo¶æ ca³ej sieci. Jest to mo¿liwe dziêki temu
+¿e,
+potrafi rozpoznaæ adresy docelowe i przekazac przychodzace dane tylko
+do
+wlasciwego wyj¶cia nie obci±¿aj±c pozosta³ych. Switch jest znacznie
+rozbudowanym, nowocze¶niejszym wariantem bridge'a posiadaj±cym od
+kilkunastu
+nawet i do kilkuset portów. Rozwi±zania niektórych firm umo¿liwiaj±
+tworzenie
+wysoko przepustowych po³±czeñ pomiêdzy switchami poprzez równoleg³e
+po³±czenie
+wiecej ni¿ jednym kablem. router - Jego dwa najczê¶ciej spotykane
+zastosowania
+to pod³±czenie sieci lokalnej do sieci rozleg³ej (np. Internetu) lub
+po³±czenie
+kilku sieci lokalnych. Router posiada przewa¿nie kilka portów
+obs³uguj±cych
+ró¿ne technologie (np. Ethernet, Frame Relay i ATM) i potrafi dokonaæ
+konwersji
+miêdzy nimi. <br style="">
+<!--[if !supportLineBreakNewLine]--><br style="">
+<!--[endif]--><o:p></o:p></p>
+<p class="MsoNormal"><b style="">Router </b>jest
+urz±dzeniem inteligentnym - potrafi rozpoznaæ adres docelowy pakietu i
+podj±æ
+decyzjê gdzie i którêdy ma on byæ wys³any.Decyzja mo¿e byæ podjêta na
+podstawie
+konfiguracji ustalonej na sta³e przez administratora, lub te¿ dziêki
+automatycznej wymianie danych z innymi routerami. Wymiana ta odbywa siê
+dziêki
+protoko³om routingu (np RIP, OSPF, EIGRP). <br>
+Oprócz swoich podstawowych funkcji router mo¿e pe³niæ wiele dodatkowych
+- na
+przyk³ad chroniæ sieæ (firewall). <br>
+Routerem mo¿e byæ specjalizowane urz±dzenie, lub komputer wyposa¿ony w
+odpowiednie oprogramowanie. <o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><b style="">gateway <br>
+</b>(takze bramka) - Jest to najczê¶ciej okre¶lenie pe³nionej funkcji,
+a nie
+fizycznego urz±dzenia. Bramka umo¿liwia wspó³pracê rozmaitych systemów,
+przewa¿nie dokonuj±c konwersji miêdzy protoko³ami lub formatami danych.
+Przyk³adami bramek mog± byæ: <o:p></o:p></p>
+<ul type="disc">
+  <li class="MsoNormal" style="">router. Pierwszy router który powsta³
+nazywa³ siê "Computer Gateway System". Jeszcze dzisiaj konfiguruj±c
+Linuxa czy Windows podajesz "default gateway", czyli router z którego
+ma korzystaæ komputer. <o:p></o:p></li>
+  <li class="MsoNormal" style="">bramka pocztowa, zapewniaj±ca
+konwersjê i wymianê poczty miêdzy sieci± FIDO oraz Internetm. <o:p></o:p></li>
+  <li class="MsoNormal" style="">bramka g³osowa, zaawansowane
+urz±dzenie dokonuj±ce konwersjê g³osu na IP czy ATM, umo¿liwiaj±ce
+transport g³osu przez sieæ danych. <o:p></o:p></li>
+</ul>
+<p class="MsoNormal" style="">HUB
+vs Switch<o:p></o:p></p>
+<p class="MsoNormal" style="">Hub<o:p></o:p></p>
+<p class="MsoNormal">Odbiera sygna³ od jednego komputera i wysy³a ten¿e
+sygna³ do
+wszystkich pozosta³ych komputerów podpiêtych do huba.<o:p></o:p></p>
+<p class="MsoNormal">-mo¿liwo¶æ pods³uchu<o:p></o:p></p>
+<p class="MsoNormal">-je¿eli jedna karta sieciowa dzia³a z prêdko¶ci±
+10Mbit/s to
+ca³a sieæ dzia³a z tak± prêdko¶ci±<o:p></o:p></p>
+<p class="MsoNormal">-dzia³a half-duplex(simplex), czyli nie jest
+mo¿liwe
+jednoczesne wysy³anie i odbieranie pakietów<o:p></o:p></p>
+<p class="MsoNormal">+stosunkowo tani<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Switch<o:p></o:p></p>
+<p class="MsoNormal">Jest to "inteligentny" hub, który przesy³a sygna³
+tylko do komputera, który ma go otrzymaæ.<o:p></o:p></p>
+<p class="MsoNormal">-stosunkowo drogi (ostatnimi czasy ceny sie
+wyrówna³y)<o:p></o:p></p>
+<p class="MsoNormal">+mo¿e dzia³aæ full-duplex, czyli mo¿e jednocze¶nie
+wysy³aæ i
+odbieraæ pakiety<o:p></o:p></p>
+<p class="MsoNormal">+utrudniona mo¿liwo¶æ pods³uchu<o:p></o:p></p>
+<p class="MsoNormal">+brak problemu ze "spowalniaj±cymi" kartami
+sieciowymi<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Generalnie, je¿eli mamy zamiar robiæ sieæ domow±
+na 2-4
+komputery to nie warto inwestowaæ w switcha. Powy¿ej tej liczby nale¿y
+siê
+zastanowiæ nad nim.<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">router vs serwer<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">router (w³a¶æ. router sprzêtowy)<o:p></o:p></p>
+<p class="MsoNormal">Przyjê³o siê, ¿e jest to urz±dzenie, które ma
+bezpo¶redni
+dostêp do Internetu i rozdziela go na inne komputery w sieci lokalnej.
+Zazwyczaj
+router ma wbudowany switch.<o:p></o:p></p>
+<p class="MsoNormal">+pobiera ma³± ilo¶æ energii<o:p></o:p></p>
+<p class="MsoNormal">+jest bezg³o¶ny<o:p></o:p></p>
+<p class="MsoNormal">+generalnie - prostota instalacji<o:p></o:p></p>
+<p class="MsoNormal">-ma mniejsze mo¿liwo¶ci konfiguracjyne ni¿ router
+programowy<o:p></o:p></p>
+<p class="MsoNormal">-brak rozbudowanych us³ug, jak ftp, http, pop3,
+smtp...<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">serwer (w³a¶æ. router programowy)<o:p></o:p></p>
+<p class="MsoNormal">Bardzo czêsto mylimy serwer i router programowy.
+Oba
+opieraj± siê na zwyk³ych PC'tach. Przyjê³o siê jednak, ¿e:<o:p></o:p></p>
+<p class="MsoNormal">Jest to komputer udostêpniaj±cy po³±czenie
+sieciowe, dziêki
+niemu jest niepotrzebny router(sprzêtowy), ale wci±¿ niezbêdny jest
+hub/switch(lub
+kilka kart sieciowych).<o:p></o:p></p>
+<p class="MsoNormal">-pobiera du¿± ilo¶æ energii<o:p></o:p></p>
+<p class="MsoNormal">-ha³asuje (no chyba, ¿e siê za³o¿y bezg³o¶ne
+ch³odzenie, np.
+wod±...)<o:p></o:p></p>
+<p class="MsoNormal">-potrzebna jest wiedza, aby go uruchomiæ (w
+szczególno¶ci,
+je¿eli chodzi o linux'a)<o:p></o:p></p>
+<p class="MsoNormal">+mo¿na uruchomiæ dodatkowe us³ugi, jak ftp, http,
+pop3,
+smtp... - jednak¿e jest to niewskazane, ze wzglêdu na obni¿enie poziomu
+bezpieczeñstwa<o:p></o:p></p>
+<p class="MsoNormal">+ma wiêksze mo¿liwo¶ci konfiguracjyne ni¿ router
+sprzêtowy<o:p></o:p></p>
+<p class="MsoNormal">+generalnie ma³e wymagania sprzêtowe (dla
+neostrady+ na
+linuxie - Leaf Bering 1.2 - procesor 486 i 16MB pamiêci RAM)<o:p></o:p></p>
+<p class="MsoNormal">+satysfakcja, ¿e zrobi³o siê co¶ samemu Smile<o:p></o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Tutaj ciê¿ko jest porównaæ te dwa urz±dzenia, oba
+s±
+stworzone do innych zadañ i nie bêdê tutaj namawia³ nikogo do kupienia
+tego czy
+tego produktu.<o:p></o:p></p>
+<div style="text-align: center;"><a
+ title="kliknij aby powróciæ do poprzedniej strony"
+ href="javascript:history.back()">powrót</a><br style="">
+</div>
+<p class="MsoNormal"><!--[if !supportLineBreakNewLine]--><br style="">
+<!--[endif]--></p>
+<!-- ZA TYM NIC NIE WOLNO DOPISYWAÆ !!! -->
+<script type="text/javascript" language="JavaScript">
+<!-- 
+auto_iframe(10);
+//-->
+</script>
+</body>
+</html>
