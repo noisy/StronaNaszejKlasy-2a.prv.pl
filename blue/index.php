@@ -1,10 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <meta http-equiv="Content-type"
- content="text/html; charset=iso-8859-2">
-  <meta name="Keywords"
- content="II A, II LO, Liceum Ogólnokształconce, Wodzisław Śląski, 1987, kaj-jo-je, mat - inf, Krzysiek Szumny, Noisy">
+  <meta name="Keywords" content="II A, II LO, Liceum Ogólnokształconce, Wodzisław Śląski, 1987, kaj-jo-je, mat - inf, Krzysiek Szumny, Noisy">
   <meta name="Description" content="">
   <meta name="Author" content="Noisy - Krzysztof Szumny">
   <title>StronaNaszejKlasy-2a.prv.pl</title>
